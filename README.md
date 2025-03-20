@@ -1,6 +1,5 @@
-## Wiki Checklist 
+# Wiki Checklist 
 description 
-
 
 ## Choosing A Home
 
@@ -15,7 +14,7 @@ description
 * Works License 
     * Choose a license for your wiki Most wikis choose a Creative Commons license, which protects their interests but allows content to be used for others in some capacity. 
 
-Setting Up
+## Setting Up
 * Privacy Policy Page
     * Especially if you are self-hosting, this is essential to outline what data is collected and how it is used. 
 * Terms of Service Page
@@ -38,7 +37,7 @@ Setting Up
 * Categorise Namespaces + 
 * Categorise roles and permissions + 
 
-Configuration
+## Configuration
 * Setup Email Servers 
     * If you are self-hosting, email functionality is essential for your wiki. Things like password confirmation, resetting and more need this functionality. There are a few free services like what(?) to cover for this. 
 * Register Google Webmaster
@@ -46,7 +45,7 @@ Configuration
 * Register Bing Webmaster
     * You can easily link your Google and Bing webmaster account in a click. Sitemap data will be shared too. This allows Bing to better index your site. 
 
-Core Extensions 
+## Core Extensions 
 These extensions are almost always essential to running a successful wiki. Some  may come pre installed, but need to be activated in LocalSettings.php. 
 * WikiSEO 
 * RobloxAPI 
@@ -70,7 +69,7 @@ These extensions are almost always essential to running a successful wiki. Some 
 * Related Articles
 * Site notice
 
-Others
+## Others
 * Discord Webhook 
     * A recent changes webhook can be useful for big wikis. Miraheze and the Discord WikiBot provides this functionality. 
 * IndieWikiBuddy
