@@ -1,6 +1,6 @@
 # Wiki Checklist 
 > [!IMPORTANT]
-> Not Finished
+> The checklist has been moved to https://indierobloxwikis.org/blog/setup-checklist. This version is no longer being updated.
 
 ## Choosing A Home
 
